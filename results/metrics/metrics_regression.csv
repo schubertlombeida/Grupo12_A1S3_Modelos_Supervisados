@@ -1,0 +1,5 @@
+Modelo,MAE,RMSE,R²
+Regresión Lineal,551.1487,723.7829,0.7028
+Ridge (alpha=10),551.2487,723.7526,0.7028
+Decision Tree Regressor (d=8),196.0456,306.0497,0.9469
+Random Forest Regressor,31.5005,55.1137,0.9983

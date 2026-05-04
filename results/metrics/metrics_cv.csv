@@ -1,0 +1,4 @@
+Modelo,Media F1,Std F1,Min,Max
+Logistic Regression,0.99,0.0005,0.9894,0.9908
+Decision Tree (d=6),0.9903,0.0,0.9903,0.9904
+Random Forest,0.9913,0.0003,0.991,0.9917
